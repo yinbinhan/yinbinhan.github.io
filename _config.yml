@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yinbin Han"
-  avatar           : "./images/portrait.jpeg"
+  avatar           : "/images/portrait.jpeg"
   bio              : "yinbinha@usc.edu"
   location         : "Los Angeles, CA"
   employer         :
