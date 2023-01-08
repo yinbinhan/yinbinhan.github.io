@@ -4,7 +4,7 @@ layout: archive
 permalink: /research/
 ---
 
-My research interests lie in the stochastic control, reinforcement learning, stochastic optimization and applications in finance and management. 
+My research interests lie in the stochastic control, reinforcement learning, stochastic optimization, and applications in finance and management. 
 
-* Yinbin Han and Zizhuo Wang, Optimal Switching Policy for Queueing Systems, working on paper.
-* Yinbin Han, Meisam Razaviyayn and Renyuan Xu, Policy Gradient Finds the Global Optimality of Nonlinear Quadratic Control, working on paper. 
+* Han, Y. & Wang Z. Optimal switching policy for batch servers. Submitted to Operetions Research Letters.
+* Han, Y., Razaviyayn, M., & Xu, R. [Policy gradient finds global optimum of nearly linear-quadratic control systems](https://openreview.net/pdf?id=jXQOe5r0O3u). In OPT 2022: Optimization for Machine Learning (NeurIPS 2022 Workshop).
