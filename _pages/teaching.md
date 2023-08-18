@@ -5,8 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Undergraduate Student Teaching Fellow, CUHKSZ
+### USC, Teaching Assistant
 
-MAT2002: Ordinary Differential Equations, Spring 2021
+* ISE 530: Optimization Methods for Analytics, Fall 2023
 
-BIO2001: General Biology, Spring 2019
+
+### CUHKSZ, Undergraduate Student Teaching Fellow
+
+* MAT2002: Ordinary Differential Equations, Spring 2021
+
+* BIO2001: General Biology, Spring 2019
