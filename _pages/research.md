@@ -10,7 +10,7 @@ My research interests include stochastic control, reinforcement learning, noncon
 * **Yinbin Han**, Meisam Razaviyayn, and Renyuan Xu. [Score approximation, optimization and generalization](). Preprint, 2023.
 
 * **Yinbin Han**, Meisam Razaviyayn, and Renyuan Xu. [Policy gradient converges to the globally optimal policy for nearly
-linear-quadratic regulators](https://arxiv.org/pdf/2303.08431.pdf). Submitted to SIAM Control and Optimization, 2023.
+linear-quadratic regulators](https://arxiv.org/pdf/2303.08431.pdf). Revision, SIAM Control and Optimization, 2023.
     * Short version accepted by NeurIPS workshop Optimization for Machine Learning, 2022.
 * **Yinbin Han** and Zizhuo Wang. [Optimal switching policy for batch servers](). Revision, Operetions Research Letters, 2022.
 
