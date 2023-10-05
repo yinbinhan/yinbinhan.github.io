@@ -11,7 +11,7 @@ redirect_from:
 I am a third-year Ph.D. student in the [Epstein Department of Industrial and Systems Engineering](https://ise.usc.edu/) at the [University of Southern California](https://usc.edu/). I am fortunate to be co-advised by Prof. [Renyuan Xu](https://renyuanxu.github.io/index.html) and Prof. [Meisam Razaviyayn](https://sites.usc.edu/razaviyayn/). Before joining USC, I obtained my B.S. in Mathematics from the [Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/), where I was advised by Prof. [Zizhuo Wang](https://mypage.cuhk.edu.cn/academics/wangzizhuo/). Please find my [CV](./files/CV_Yinbin_Han_08172023.pdf) here. 
 
 ## News
-* Sep 27, 2023: Our paper [Optimal switching policy for batch servers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4566576) is available on SSRN.
+* Sep 27, 2023: Our paper [Optimal switching policy for batch servers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4566576) is available online.
 * Sep 8, 2023: Our paper [Optimal switching policy for batch servers]() is accepted by Operations Research Letters.
 * Aug 21, 2023: Our paper [Policy gradient converges to the globally optimal policy for nearly
 linear-quadratic regulators](https://arxiv.org/pdf/2303.08431.pdf) receives major revision.
