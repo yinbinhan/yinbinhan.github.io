@@ -7,7 +7,7 @@ author_profile: true
 
 ### USC, Teaching Assistant
 
-* ISE 530: Optimization Methods for Analytics, Fall 2023
+* ISE 530: Optimization Methods for Analytics, Fall 2023, Spring 2024
 
 
 ### CUHKSZ, Undergraduate Student Teaching Fellow
