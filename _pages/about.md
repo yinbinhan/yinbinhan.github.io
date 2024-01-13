@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in the [Epstein Department of Industrial and Systems Engineering](https://ise.usc.edu/) at the [University of Southern California](https://usc.edu/). I am fortunate to be co-advised by Prof. [Renyuan Xu](https://renyuanxu.github.io/index.html) and Prof. [Meisam Razaviyayn](https://sites.usc.edu/razaviyayn/). Before joining USC, I obtained my B.S. in Mathematics from the [Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/), where I was advised by Prof. [Zizhuo Wang](https://mypage.cuhk.edu.cn/academics/wangzizhuo/). Please find my [CV](./files/CV_Yinbin_Han_08172023.pdf) here. 
+I am a third-year Ph.D. student in the [Epstein Department of Industrial and Systems Engineering](https://ise.usc.edu/) at the [University of Southern California](https://usc.edu/). I am fortunate to be co-advised by Prof. [Renyuan Xu](https://renyuanxu.github.io/index.html) and Prof. [Meisam Razaviyayn](https://sites.usc.edu/razaviyayn/). Before joining USC, I obtained my B.S. in Mathematics from the [Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/), where I was advised by Prof. [Zizhuo Wang](https://mypage.cuhk.edu.cn/academics/wangzizhuo/). Please find my [CV](./files/CV_Yinbin_Han_01122024.pdf) here. 
 
 ## News
 * Dec 15, 2023: I presented a poster titled [Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization]() at NeurIPS 2023 Workshop on Diffusion Models.
