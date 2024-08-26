@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in the [Epstein Department of Industrial and Systems Engineering](https://ise.usc.edu/) at the [University of Southern California](https://usc.edu/). I am fortunate to be co-advised by Prof. [Renyuan Xu](https://renyuanxu.github.io/index.html) and Prof. [Meisam Razaviyayn](https://sites.usc.edu/razaviyayn/). Before joining USC, I obtained my B.S. in Mathematics from the [Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/), where I was advised by Prof. [Zizhuo Wang](https://mypage.cuhk.edu.cn/academics/wangzizhuo/). Please find my [CV](./files/CV_Yinbin_Han_01122024.pdf) here. 
+I am a fourth-year Ph.D. student in the [Department of Finance and Risk Engineering](https://engineering.nyu.edu/academics/departments/finance-and-risk-engineering) at the [New York University](https://www.nyu.edu/). Before joining NYU, I was a Ph.D. student in the [Epstein Department of Industrial and Systems Engineering](https://ise.usc.edu/) at the [University of Southern California](https://usc.edu/). I am fortunate to be co-advised by Prof. [Renyuan Xu](https://renyuanxu.github.io/index.html) (NYU) and Prof. [Meisam Razaviyayn](https://sites.usc.edu/razaviyayn/) (USC). I obtained my B.S. in Mathematics from the [Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/), where I was advised by Prof. [Zizhuo Wang](https://mypage.cuhk.edu.cn/academics/wangzizhuo/). Please find my [CV](./files/CV_Yinbin_Han_01122024.pdf) here. 
 
 ## News
+* 08/2024: I joined NYU Tandon and started a new journey here!
 * 05/2024: I started my Research Scientist Intern at Meta, Sunnyvale.
 * 05/2024: I presented a poster titled [Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization]() at ICLR 2024, Vienna.
 * 03/2024: I co-chaired a session with Meisam Razaviyayn and gave a talk titled [Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization]() at INFORMS Optimization Society Conference.
