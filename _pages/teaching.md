@@ -5,6 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
+### NYU, Teaching Assistang
+
+* FRE-GY 9073: Stochastic Systems and Modern Machine Learning Theory
+
+
 ### USC, Teaching Assistant
 
 * ISE 530: Optimization Methods for Analytics, Fall 2023, Spring 2024
