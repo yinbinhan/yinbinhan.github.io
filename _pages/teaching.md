@@ -7,7 +7,7 @@ author_profile: true
 
 ### NYU, Teaching Assistang
 
-* FRE-GY 9073: Stochastic Systems and Modern Machine Learning Theory
+* FRE-GY 9073: Stochastic Systems and Modern Machine Learning Theory, Fall 2024
 
 
 ### USC, Teaching Assistant
