@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student in the [Department of Finance and Risk Engineering](https://engineering.nyu.edu/academics/departments/finance-and-risk-engineering) at the [New York University](https://www.nyu.edu/). Before joining NYU, I was a Ph.D. student in the [Epstein Department of Industrial and Systems Engineering](https://ise.usc.edu/) at the [University of Southern California](https://usc.edu/). I am fortunate to be co-advised by Prof. [Renyuan Xu](https://renyuanxu.github.io/index.html) (NYU) and Prof. [Meisam Razaviyayn](https://sites.usc.edu/razaviyayn/) (USC). I obtained my B.S. in Mathematics from the [Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/), where I was advised by Prof. [Zizhuo Wang](https://mypage.cuhk.edu.cn/academics/wangzizhuo/). Please find my [CV](./files/CV_Yinbin_Han_09032024.pdf) here. 
+I am a fourth-year Ph.D. student in the [Department of Finance and Risk Engineering](https://engineering.nyu.edu/academics/departments/finance-and-risk-engineering) at the [New York University](https://www.nyu.edu/). Before joining NYU, I was a Ph.D. student in the [Epstein Department of Industrial and Systems Engineering](https://ise.usc.edu/) at the [University of Southern California](https://usc.edu/). I am fortunate to be co-advised by Prof. [Renyuan Xu](https://renyuanxu.github.io/index.html) (NYU) and Prof. [Meisam Razaviyayn](https://sites.usc.edu/razaviyayn/) (USC). I obtained my B.S. in Mathematics from the [Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/), where I was advised by Prof. [Zizhuo Wang](https://mypage.cuhk.edu.cn/academics/wangzizhuo/). Please find my [CV](./files/CV_Yinbin_Han_12252024.pdf) here. 
 
 ## News
+* 12/2024: Our preprint [Stochastic Control for Fine-tuning Diffusion Models: Optimality, Regularity and Convergence](https://arxiv.org/abs/2412.18164) is available online.
 * 10/2024: I gave a talk titled [Fine-tuning diffusion models: A stochastic control perspective]() at INFORMS Annual 2024, Seattle.
 * 10/2024: I presented a poster at the Yale Sampling Conference, New Haven.
 * 08/2024: I joined NYU Tandon and started a new journey here!

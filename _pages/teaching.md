@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### NYU, Teaching Assistang
+### NYU, Teaching Assistant
 
 * FRE-GY 9073: Stochastic Systems and Modern Machine Learning Theory, Fall 2024
 
