@@ -7,12 +7,12 @@ permalink: /research/
 
 My research interests include stochastic control, reinforcement learning, nonconvex and stochastic optimization, diffusion models and applications in management and finance.
 
-## Working Papers and Preprints
-
-* **Yinbin Han**, Meisam Razaviyayn, and Renyuan Xu. [Stochastic Control for Fine-tuning Diffusion Models: Optimality, Regularity and Convergence](https://arxiv.org/abs/2412.18164). Preprint, 2024.
+<!-- ## Working Papers and Preprints -->
 
 
 ## Conference Proceedings
+
+* **Yinbin Han**, Meisam Razaviyayn, and Renyuan Xu. [Stochastic Control for Fine-tuning Diffusion Models: Optimality, Regularity and Convergence](https://arxiv.org/abs/2412.18164). International Conference on Machine Learning (ICML), 2025.
 
 * **Yinbin Han**, Meisam Razaviyayn, and Renyuan Xu. [Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization](https://arxiv.org/abs/2401.15604). International Conference on Learning Representations (ICLR), 2024.
     * Short version accepted by  NeurIPS Workshop on Diffusion Models, 2023.
