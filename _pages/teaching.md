@@ -7,6 +7,7 @@ author_profile: true
 
 ### NYU, Teaching Assistant
 
+* FRE-GY 5020 & 5030: Bootcamp, Summer 2025
 * FRE-GY 6233: Stochastic Calculus and Option Pricing, Spring 2025
 * FRE-GY 9073: Stochastic Systems and Modern Machine Learning Theory, Fall 2024
 

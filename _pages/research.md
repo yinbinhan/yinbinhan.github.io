@@ -16,7 +16,6 @@ My research interests include stochastic control, reinforcement learning, noncon
 
 * **Yinbin Han**, Meisam Razaviyayn, and Renyuan Xu. [Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization](https://arxiv.org/abs/2401.15604). International Conference on Learning Representations (ICLR), 2024.
     * Short version accepted by  NeurIPS Workshop on Diffusion Models, 2023.
-    * Long version to be submitted to Mathematics of Operations Research.
 
 
 ## Journal Publications
