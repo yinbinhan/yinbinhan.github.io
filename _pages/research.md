@@ -7,8 +7,11 @@ permalink: /research/
 
 My research interests include stochastic control, reinforcement learning, nonconvex and stochastic optimization, diffusion models and applications in management and finance.
 
-<!-- ## Working Papers and Preprints -->
+## Working Papers and Preprints
 
+* **Yinbin Han** and Meisam Razaviyayn. [Stochastic Inexact Augmented Lagrangian Method for Nonconvex Robust Constrained Optimization](). Preprint, 2025.
+ 
+*  Haoyang Cao, Minshuo Chen, **Yinbin Han**, and Renyuan Xu. [Diffusion Models for Learning Financial Time Series: Score Approximation, Estimation and Distribution Recovery](). Preprint, 2025.
 
 ## Conference Proceedings
 
