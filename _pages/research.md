@@ -9,9 +9,12 @@ My research interests include stochastic control, reinforcement learning, noncon
 
 ## Working Papers and Preprints
 
-* **Yinbin Han** and Meisam Razaviyayn. [Stochastic Inexact Moreau Enelope Augmented Lagrangian Method for Nonconvex Robust Constrained Optimization](). Preprint, 2025.
+* **Yinbin Han** and Meisam Razaviyayn. [Inexact Moreau Envelope Augmented Lagrangian Method for Nonconvex Robust Constrained Optimization](https://openreview.net/pdf?id=BVuORzJ4ye). Preprint, 2025.
+    * Short version accepted by  NeurIPS Workshop  on Constrained Optimization for Machine Learning, 2025.
+
  
-*  Haoyang Cao, Minshuo Chen, **Yinbin Han**, and Renyuan Xu. [Diffusion Models for Learning Financial Time Series: Score Approximation, Estimation and Distribution Recovery](). Preprint, 2025.
+*  Haoyang Cao, Minshuo Chen, **Yinbin Han**, and Renyuan Xu. [Diffusion Models for Adapted Sequential Data Generation](https://openreview.net/pdf?id=2pfnuv913O). Preprint, 2025.
+      * Short version accepted by  NeurIPS Workshop  MLxOR, 2025.
 
 ## Conference Proceedings
 
