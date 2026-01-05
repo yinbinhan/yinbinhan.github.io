@@ -5,7 +5,11 @@ permalink: /research/
 ---
 
 
-My research interests include stochastic control, reinforcement learning, nonconvex and stochastic optimization, diffusion models and applications in management and finance.
+I have broad research interests in optimization, applied probability and machine learning. Here are some topics that I have been working on recently:
+* reinforcement learning and stochastic control theory
+* nonconvex, nonsmooth and stochastic optimization
+* mathematical foundation of diffusion models
+* and their applications in mathematical finance and operations management
 
 ## Working Papers and Preprints
 
