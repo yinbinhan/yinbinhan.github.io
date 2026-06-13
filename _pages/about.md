@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [Department of Management Science and Engineering](https://msande.stanford.edu/) at the [Stanford University](https://www.stanford.edu/). Before joining Stanford, I was a Ph.D. student in the [Department of Finance and Risk Engineering](https://engineering.nyu.edu/academics/departments/finance-and-risk-engineering) at the [New York University](https://www.nyu.edu/) from Sep 2024 - Sep 2025 and in the [Epstein Department of Industrial and Systems Engineering](https://ise.usc.edu/) at the [University of Southern California](https://usc.edu/) from Aug 2021 - Aug 2024. I am fortunate to be co-advised by Prof. [Renyuan Xu](https://renyuanxu.github.io/index.html) (Stanford) and Prof. [Meisam Razaviyayn](https://sites.usc.edu/razaviyayn/) (USC). I obtained my B.S. in Mathematics from [The Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/), where I was advised by Prof. [Zizhuo Wang](https://mypage.cuhk.edu.cn/academics/wangzizhuo/). Please find my [CV](./files/CV_Yinbin_Han_11222025.pdf) here. 
+I am a Ph.D. candidate in the [Department of Management Science and Engineering](https://msande.stanford.edu/) at the [Stanford University](https://www.stanford.edu/). Before joining Stanford, I was a Ph.D. student in the [Department of Finance and Risk Engineering](https://engineering.nyu.edu/academics/departments/finance-and-risk-engineering) at the [New York University](https://www.nyu.edu/) from Sep 2024 - Sep 2025 and in the [Epstein Department of Industrial and Systems Engineering](https://ise.usc.edu/) at the [University of Southern California](https://usc.edu/) from Aug 2021 - Aug 2024. I am fortunate to be co-advised by Prof. [Renyuan Xu](https://renyuanxu.github.io/index.html) (Stanford) and Prof. [Meisam Razaviyayn](https://sites.usc.edu/razaviyayn/) (USC). I obtained my B.S. in Mathematics from [The Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/), where I was advised by Prof. [Zizhuo Wang](https://mypage.cuhk.edu.cn/academics/wangzizhuo/). Please find my [CV](./files/CV_Yinbin_Han_06132026.pdf) here. 
 
 ## News
+* 06/26: I presented our work [Diffusion Models for Adaptive Sequential Data Generation]() at SIAM Conference on Optimization (OP26) in Edinburgh, Jun 2 - 5.
+* 05/26: I passed the PhD Area Qualification Exam at Stanford and advanced to PhD candidacy.
+* 03/26: I presented our work [Diffusion Models for Adaptive Sequential Data Generation]() at INFORMS Optimization Society Conference in Atlanta, Mar 20 - 22.
+*  03/26: I presented our work [Diffusion Models for Adaptive Sequential Data Generation]() at AFTLab PhD Student Workshop at Stanford, Mar 16.
 * 12/25: I presented workshop posters [Diffusion Models for Adapted Sequential Data Generation]() and [Inexact Moreau Envelope Augmented Lagrangian Method for Nonconvex Robust Constrained Optimization](https://openreview.net/pdf?id=BVuORzJ4ye) at NeurIPS workshop 2025, Dec 6 - 7.
 * 12/25: I co-organized a workshop on [Generative AI in Finance](https://sites.google.com/view/neurips-25-gen-ai-in-finance/home) at NeurIPS 2025 in San Diego, Dec 6.
 * 10/25: I gave a talk on [Diffusion Models for Adapted Sequential Data Generation]() at [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/) in Atlanta.
@@ -21,9 +25,8 @@ I am a Ph.D. student in the [Department of Management Science and Engineering](h
 * 07/2025: I gave talks on [Stochastic control for fine-tuning diffusion models](https://arxiv.org/abs/2412.18164) at [INFORMS Applied Probability Society Conference](https://informs-aps.isye.gatech.edu/), [International Conference on Machine Learning](https://icml.cc/) and [International Conference on Continuous Optimization](https://sites.google.com/view/iccopt2025/home).
 * 05/2025: Our paper [Stochastic Control for Fine-tuning Diffusion Models: Optimality, Regularity and Convergence](https://arxiv.org/abs/2412.18164) is accepted by ICML 2025 for poster presentation.
 * 04/2025: Our paper [Policy Gradient Converges to the Globally Optimal Policy for Nearly Linear-Quadratic Regulators](https://arxiv.org/abs/2303.08431) is accepted by SIAM Journal on Control and Optimization.
-<!-- * 12/2024: Our preprint [Stochastic Control for Fine-tuning Diffusion Models: Optimality, Regularity and Convergence](https://arxiv.org/abs/2412.18164) is available online. -->
-
-<!-- * 10/2024: I gave a talk titled [Fine-tuning diffusion models: A stochastic control perspective]() at INFORMS Annual 2024, Seattle.
+* 12/2024: Our preprint [Stochastic Control for Fine-tuning Diffusion Models: Optimality, Regularity and Convergence](https://arxiv.org/abs/2412.18164) is available online.
+* 10/2024: I gave a talk titled [Fine-tuning diffusion models: A stochastic control perspective]() at INFORMS Annual 2024, Seattle.
 * 10/2024: I presented a poster at the Yale Sampling Conference, New Haven.
 * 08/2024: I joined NYU Tandon and started a new journey here!
 * 05/2024: I started my Research Scientist Intern at Meta, Sunnyvale.
@@ -32,12 +35,68 @@ I am a Ph.D. student in the [Department of Management Science and Engineering](h
 * 01/2024: Our preprint [Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization](https://arxiv.org/abs/2401.15604) is available online.
 * 01/2024: Our paper [Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization](https://openreview.net/forum?id=h8GeqOxtd4) is accepted by ICLR 2024 for poster presentation.
 * 12/2023: I presented a poster titled [Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization]() at NeurIPS 2023 Workshop on Diffusion Models.
-* 10/2023, Our paper [Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization]() is accepted by NeurIPS 2023 Workshop on Diffusion Models.
+* 10/2023: Our paper [Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization]() is accepted by NeurIPS 2023 Workshop on Diffusion Models.
 * 10/2023: I gave a talk titled [Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization]() at INFORMS Annual 2023.
 * 09/2023: Our paper [Optimal Switching Policy for Batch Servers](https://www.sciencedirect.com/science/article/abs/pii/S0167637723001578) is available online.
 * 09/2023: Our paper [Optimal Switching Policy for Batch Servers](https://www.sciencedirect.com/science/article/abs/pii/S0167637723001578) is accepted by Operations Research Letters.
-* 03/2023: Our paper [Policy gradient converges to the globally optimal policy for nearly
-linear-quadratic regulators](https://arxiv.org/pdf/2303.08431.pdf) is submitted to SIAM Control and Optimization.
+* 03/2023: Our paper [Policy gradient converges to the globally optimal policy for nearly linear-quadratic regulators](https://arxiv.org/pdf/2303.08431.pdf) is submitted to SIAM Control and Optimization.
 * 12/2022: Poster at NeurIPS 2022 Workshop OPT 2022.
-* 10/2022: I gave a talk at INFORMS Annual Meeting 2022. 
- -->
+* 10/2022: I gave a talk at INFORMS Annual Meeting 2022.
+{:.news-list}
+
+<style>
+.news-list li.news-hidden { display: none; }
+#news-load-more {
+  display: inline-block;
+  margin-top: 0.4em;
+  padding: 0;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 0.9em;
+  color: #2698ba;
+}
+#news-load-more:hover { text-decoration: underline; }
+</style>
+
+<script>
+(function () {
+  var BATCH = 5;
+  function init() {
+    var list = document.querySelector('.news-list');
+    if (!list) return;
+    var items = Array.prototype.slice.call(list.children).filter(function (el) {
+      return el.tagName === 'LI';
+    });
+    if (items.length <= BATCH) return;
+    var shown = BATCH;
+    items.forEach(function (li, i) {
+      if (i >= shown) li.classList.add('news-hidden');
+    });
+    var btn = document.createElement('button');
+    btn.id = 'news-load-more';
+    btn.type = 'button';
+    function render() {
+      items.forEach(function (li, i) {
+        li.classList.toggle('news-hidden', i >= shown);
+      });
+      if (shown >= items.length) {
+        btn.style.display = 'none';
+      } else {
+        btn.textContent = 'Load more ▾';
+      }
+    }
+    btn.addEventListener('click', function () {
+      shown += BATCH;
+      render();
+    });
+    list.parentNode.insertBefore(btn, list.nextSibling);
+    render();
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+</script>

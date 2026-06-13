@@ -13,25 +13,27 @@ I have broad research interests in optimization, applied probability and machine
 
 ## Working Papers and Preprints
 
-* **Yinbin Han** and Meisam Razaviyayn. [Inexact Moreau Envelope Augmented Lagrangian Method for Nonconvex Robust Constrained Optimization](https://openreview.net/pdf?id=BVuORzJ4ye). Preprint, 2025.
-    * Short version accepted by  NeurIPS Workshop  on Constrained Optimization for Machine Learning, 2025.
+*  Haoyang Cao, Minshuo Chen, **Yinbin Han**, and Renyuan Xu. [Diffusion Models for Adaptive Sequential Data Generation](https://arxiv.org/abs/2606.06007). Submitted to *Operations Research*, 2026.
+      * Short version accepted by *NeurIPS Workshop  MLxOR*, 2025.
+
+* **Yinbin Han** and Meisam Razaviyayn. [Stochastic Inexact Moreau Envelope Augmented Lagrangian Method for Nonconvex Robust Constrained Optimization](https://openreview.net/pdf?id=BVuORzJ4ye). Preprint, 2025.
+    * Short version accepted by  *NeurIPS Workshop  on Constrained Optimization for Machine Learning*, 2025.
 
  
-*  Haoyang Cao, Minshuo Chen, **Yinbin Han**, and Renyuan Xu. [Diffusion Models for Adapted Sequential Data Generation](https://openreview.net/pdf?id=2pfnuv913O). Preprint, 2025.
-      * Short version accepted by  NeurIPS Workshop  MLxOR, 2025.
+
 
 ## Conference Proceedings
 
-* **Yinbin Han**, Meisam Razaviyayn, and Renyuan Xu. [Stochastic Control for Fine-tuning Diffusion Models: Optimality, Regularity and Convergence](https://arxiv.org/abs/2412.18164). International Conference on Machine Learning (ICML), 2025.
+* **Yinbin Han**, Meisam Razaviyayn, and Renyuan Xu. [Stochastic Control for Fine-tuning Diffusion Models: Optimality, Regularity and Convergence](https://arxiv.org/abs/2412.18164). *International Conference on Machine Learning (ICML)*, 2025.
 
-* **Yinbin Han**, Meisam Razaviyayn, and Renyuan Xu. [Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization](https://arxiv.org/abs/2401.15604). International Conference on Learning Representations (ICLR), 2024.
-    * Short version accepted by  NeurIPS Workshop on Diffusion Models, 2023.
+* **Yinbin Han**, Meisam Razaviyayn, and Renyuan Xu. [Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization](https://arxiv.org/abs/2401.15604). *International Conference on Learning Representations (ICLR)*, 2024.
+    * Short version accepted by  *NeurIPS Workshop on Diffusion Models*, 2023.
 
 
 ## Journal Publications
 
-* **Yinbin Han**, Meisam Razaviyayn, and Renyuan Xu. [Policy Gradient Converges to the Globally Optimal Policy for Nearly Linear-Quadratic Regulators](https://arxiv.org/abs/2303.08431). SIAM Journal on Control and Optimization, 2025.
-    * Short version accepted by NeurIPS Workshop Optimization for Machine Learning, 2022.
+* **Yinbin Han**, Meisam Razaviyayn, and Renyuan Xu. [Policy Gradient Converges to the Globally Optimal Policy for Nearly Linear-Quadratic Regulators](https://arxiv.org/abs/2303.08431). *SIAM Journal on Control and Optimization*, 2025.
+    * Short version accepted by *NeurIPS Workshop Optimization for Machine Learning*, 2022.
   
-* **Yinbin Han** and Zizhuo Wang. [Optimal Switching Policy for Batch Servers](https://www.sciencedirect.com/science/article/abs/pii/S0167637723001578). Operations Research Letters, 2023.
+* **Yinbin Han** and Zizhuo Wang. [Optimal Switching Policy for Batch Servers](https://www.sciencedirect.com/science/article/abs/pii/S0167637723001578). *Operations Research Letters*, 2023.
 
