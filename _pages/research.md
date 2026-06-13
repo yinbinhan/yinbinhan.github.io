@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 
-I have broad research interests in optimization, applied probability and machine learning. Here are some topics that I have been working on recently:
+I have broad research interests in optimization, applied probability, statistics and machine learning. Here are some topics that I have been working on recently:
 * reinforcement learning and stochastic control theory
 * nonconvex, nonsmooth and stochastic optimization
 * mathematical foundation of diffusion models
@@ -13,7 +13,7 @@ I have broad research interests in optimization, applied probability and machine
 
 ## Working Papers and Preprints
 
-*  Haoyang Cao, Minshuo Chen, **Yinbin Han**, and Renyuan Xu. [Diffusion Models for Adaptive Sequential Data Generation](https://arxiv.org/abs/2606.06007). Submitted to *Operations Research*, 2026.
+*  Haoyang Cao, Minshuo Chen, **Yinbin Han**, and Renyuan Xu. [Diffusion Models for Adaptive Sequential Data Generation](https://arxiv.org/abs/2606.06007). Submitted to *Operations Research*, 2026. <a href="https://github.com/yinbinhan/adapted_diffusion_model"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a>
       * Short version accepted by *NeurIPS Workshop  MLxOR*, 2025.
 
 * **Yinbin Han** and Meisam Razaviyayn. [Stochastic Inexact Moreau Envelope Augmented Lagrangian Method for Nonconvex Robust Constrained Optimization](https://openreview.net/pdf?id=BVuORzJ4ye). Preprint, 2025.
@@ -24,7 +24,7 @@ I have broad research interests in optimization, applied probability and machine
 
 ## Conference Proceedings
 
-* **Yinbin Han**, Meisam Razaviyayn, and Renyuan Xu. [Stochastic Control for Fine-tuning Diffusion Models: Optimality, Regularity and Convergence](https://arxiv.org/abs/2412.18164). *International Conference on Machine Learning (ICML)*, 2025.
+* **Yinbin Han**, Meisam Razaviyayn, and Renyuan Xu. [Stochastic Control for Fine-tuning Diffusion Models: Optimality, Regularity and Convergence](https://arxiv.org/abs/2412.18164). *International Conference on Machine Learning (ICML)*, 2025. <a href="https://github.com/yinbinhan/fine-tuning-of-diffusion-models"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a>
 
 * **Yinbin Han**, Meisam Razaviyayn, and Renyuan Xu. [Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization](https://arxiv.org/abs/2401.15604). *International Conference on Learning Representations (ICLR)*, 2024.
     * Short version accepted by  *NeurIPS Workshop on Diffusion Models*, 2023.
