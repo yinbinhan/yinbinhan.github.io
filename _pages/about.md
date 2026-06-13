@@ -11,9 +11,9 @@ redirect_from:
 I am a Ph.D. candidate in the [Department of Management Science and Engineering](https://msande.stanford.edu/) at the [Stanford University](https://www.stanford.edu/). Before joining Stanford, I was a Ph.D. student in the [Department of Finance and Risk Engineering](https://engineering.nyu.edu/academics/departments/finance-and-risk-engineering) at the [New York University](https://www.nyu.edu/) from Sep 2024 - Sep 2025 and in the [Epstein Department of Industrial and Systems Engineering](https://ise.usc.edu/) at the [University of Southern California](https://usc.edu/) from Aug 2021 - Aug 2024. I am fortunate to be co-advised by Prof. [Renyuan Xu](https://renyuanxu.github.io/index.html) (Stanford) and Prof. [Meisam Razaviyayn](https://sites.usc.edu/razaviyayn/) (USC). I obtained my B.S. in Mathematics from [The Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/), where I was advised by Prof. [Zizhuo Wang](https://mypage.cuhk.edu.cn/academics/wangzizhuo/). Please find my [CV](./files/CV_Yinbin_Han_06132026.pdf) here. 
 
 ## News
-* 06/26: I presented our work [Diffusion Models for Adaptive Sequential Data Generation]() at SIAM Conference on Optimization (OP26) in Edinburgh, Jun 2 - 5.
-* 05/26: I passed the PhD Area Qualification Exam at Stanford and advanced to PhD candidacy.
-* 03/26: I presented our work [Diffusion Models for Adaptive Sequential Data Generation]() at INFORMS Optimization Society Conference in Atlanta, Mar 20 - 22.
+* 06/26: I presented our work [Diffusion Models for Adaptive Sequential Data Generation]() at [SIAM Conference on Optimization (OP26)](https://www.siam.org/conferences-events/siam-conferences/op26/) in Edinburgh, Jun 2 - 5.
+* 05/26: I passed the PhD Area Qualification Exam at Stanford and advanced to PhD candidacy. <span class="milestone-celebrate" role="button" tabindex="0" title="Celebrate again!">🎉</span>
+* 03/26: I presented our work [Diffusion Models for Adaptive Sequential Data Generation]() at [INFORMS Optimization Society Conference](https://ios2026.isye.gatech.edu/) in Atlanta, Mar 20 - 22.
 *  03/26: I presented our work [Diffusion Models for Adaptive Sequential Data Generation]() at AFTLab PhD Student Workshop at Stanford, Mar 16.
 * 12/25: I presented workshop posters [Diffusion Models for Adapted Sequential Data Generation]() and [Inexact Moreau Envelope Augmented Lagrangian Method for Nonconvex Robust Constrained Optimization](https://openreview.net/pdf?id=BVuORzJ4ye) at NeurIPS workshop 2025, Dec 6 - 7.
 * 12/25: I co-organized a workshop on [Generative AI in Finance](https://sites.google.com/view/neurips-25-gen-ai-in-finance/home) at NeurIPS 2025 in San Diego, Dec 6.
@@ -57,6 +57,15 @@ I am a Ph.D. candidate in the [Department of Management Science and Engineering]
   color: #2698ba;
 }
 #news-load-more:hover { text-decoration: underline; }
+.milestone-celebrate {
+  cursor: pointer;
+  display: inline-block;
+  transition: transform 0.15s ease;
+}
+.milestone-celebrate:hover { transform: scale(1.25) rotate(8deg); }
+@media (prefers-reduced-motion: reduce) {
+  .milestone-celebrate:hover { transform: none; }
+}
 </style>
 
 <script>
@@ -92,6 +101,84 @@ I am a Ph.D. candidate in the [Department of Management Science and Engineering]
     });
     list.parentNode.insertBefore(btn, list.nextSibling);
     render();
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+</script>
+
+<script>
+(function () {
+  var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  function fireConfetti(origin) {
+    var w = window.innerWidth, h = window.innerHeight;
+    var dpr = window.devicePixelRatio || 1;
+    var canvas = document.createElement('canvas');
+    canvas.style.cssText = 'position:fixed;top:0;left:0;width:100%;height:100%;pointer-events:none;z-index:9999;';
+    canvas.width = w * dpr;
+    canvas.height = h * dpr;
+    document.body.appendChild(canvas);
+    var ctx = canvas.getContext('2d');
+    ctx.scale(dpr, dpr);
+    var colors = ['#2698ba', '#f94144', '#f9c74f', '#90be6d', '#577590', '#f3722c', '#9b5de5'];
+    var cx = origin ? origin.x : w / 2;
+    var cy = origin ? origin.y : h / 3;
+    var particles = [];
+    for (var i = 0; i < 110; i++) {
+      var angle = Math.random() * Math.PI * 2;
+      var speed = 4 + Math.random() * 8;
+      particles.push({
+        x: cx, y: cy,
+        vx: Math.cos(angle) * speed,
+        vy: Math.sin(angle) * speed - 5,
+        size: 5 + Math.random() * 6,
+        color: colors[(Math.random() * colors.length) | 0],
+        rot: Math.random() * Math.PI,
+        vrot: (Math.random() - 0.5) * 0.3
+      });
+    }
+    var start = null, DURATION = 1600;
+    function frame(ts) {
+      if (start === null) start = ts;
+      var elapsed = ts - start;
+      ctx.clearRect(0, 0, w, h);
+      var alpha = Math.max(0, 1 - elapsed / DURATION);
+      particles.forEach(function (p) {
+        p.vy += 0.2;
+        p.vx *= 0.99;
+        p.x += p.vx;
+        p.y += p.vy;
+        p.rot += p.vrot;
+        ctx.save();
+        ctx.translate(p.x, p.y);
+        ctx.rotate(p.rot);
+        ctx.globalAlpha = alpha;
+        ctx.fillStyle = p.color;
+        ctx.fillRect(-p.size / 2, -p.size / 2, p.size, p.size * 0.6);
+        ctx.restore();
+      });
+      if (elapsed < DURATION) {
+        requestAnimationFrame(frame);
+      } else {
+        canvas.remove();
+      }
+    }
+    requestAnimationFrame(frame);
+  }
+  function init() {
+    var el = document.querySelector('.milestone-celebrate');
+    if (!el || reduce) return;
+    function celebrate() {
+      var r = el.getBoundingClientRect();
+      fireConfetti({ x: r.left + r.width / 2, y: r.top + r.height / 2 });
+    }
+    el.addEventListener('click', celebrate);
+    el.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); celebrate(); }
+    });
   }
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', init);
