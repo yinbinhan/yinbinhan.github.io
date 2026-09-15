@@ -20,4 +20,4 @@ author_profile: true
 ### CUHKSZ, Undergraduate Student Teaching Fellow
 
 * MAT2002: Ordinary Differential Equations, Spring 2021
-* BIO2001: General Biology, Spring 2019
+* BIO2001: General Biology, Summer 2019

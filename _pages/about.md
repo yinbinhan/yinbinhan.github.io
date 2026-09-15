@@ -7,9 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the [Department of Management Science and Engineering](https://msande.stanford.edu/) at the [Stanford University](https://www.stanford.edu/). Before joining Stanford, I was a Ph.D. student in the [Department of Finance and Risk Engineering](https://engineering.nyu.edu/academics/departments/finance-and-risk-engineering) at the [New York University](https://www.nyu.edu/) from Sep 2024 - Sep 2025 and in the [Epstein Department of Industrial and Systems Engineering](https://ise.usc.edu/) at the [University of Southern California](https://usc.edu/) from Aug 2021 - Aug 2024. I am fortunate to be co-advised by Prof. [Renyuan Xu](https://renyuanxu.github.io/index.html) (Stanford) and Prof. [Meisam Razaviyayn](https://sites.usc.edu/razaviyayn/) (USC). I obtained my B.S. in Mathematics from [The Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/), where I was advised by Prof. [Zizhuo Wang](https://mypage.cuhk.edu.cn/academics/wangzizhuo/). Please find my [CV](./files/CV_Yinbin_Han_06132026.pdf) here. 
+I am a Ph.D. candidate in the [Department of Management Science and Engineering](https://msande.stanford.edu/) at the [Stanford University](https://www.stanford.edu/). Before joining Stanford, I was a Ph.D. student in the [Department of Finance and Risk Engineering](https://engineering.nyu.edu/academics/departments/finance-and-risk-engineering) at the [New York University](https://www.nyu.edu/) from Sep 2024 - Aug 2025 and in the [Epstein Department of Industrial and Systems Engineering](https://ise.usc.edu/) at the [University of Southern California](https://usc.edu/) from Aug 2021 - Aug 2024. I am fortunate to be co-advised by Prof. [Renyuan Xu](https://renyuanxu.github.io/index.html) (Stanford) and Prof. [Meisam Razaviyayn](https://sites.usc.edu/razaviyayn/) (USC). I obtained my B.S. in Mathematics from [The Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/), where I was advised by Prof. [Zizhuo Wang](https://mypage.cuhk.edu.cn/academics/wangzizhuo/). Please find my [CV](./files/CV_Yinbin_Han_09152026.pdf) here. 
+
+**I am on the 2026-27 academic job market.**
+{:.job-market}
 
 ## News
+* 09/26: Our paper [Diffusion Models for Adaptive Sequential Data Generation](https://arxiv.org/abs/2606.06007) is selected as a finalist for the 2026 INFORMS Finance Section Best Student Paper Award.
+* 09/26: Our preprint [Diffusion Models for Dynamic Volatility Surface Generation and Data-Driven Hedging](https://arxiv.org/abs/2609.13402) is available online; <a href="https://github.com/yinbinhan/volatility-surface-simulation"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a> is released.
 * 06/26: Our preprint [Diffusion Models for Adaptive Sequential Data Generation](https://arxiv.org/abs/2606.06007) is available online; <a href="https://github.com/yinbinhan/adapted_diffusion_model"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a> is released.
 * 06/26: I presented our work [Diffusion Models for Adaptive Sequential Data Generation]() at [SIAM Conference on Optimization (OP26)](https://www.siam.org/conferences-events/siam-conferences/op26/) in Edinburgh, Jun 2 - 5.
 * 05/26: I passed the PhD Area Qualification Exam at Stanford and advanced to PhD candidacy. <span class="milestone-celebrate" role="button" tabindex="0" title="Celebrate again!">🎉</span>
@@ -45,6 +50,8 @@ I am a Ph.D. candidate in the [Department of Management Science and Engineering]
 {:.news-list}
 
 <style>
+.job-market { margin-top: -0.5em; margin-bottom: 0; }
+.job-market + h2 { margin-top: 1.2em; }
 .news-list li.news-hidden { display: none; }
 #news-load-more {
   display: inline-block;
