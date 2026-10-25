@@ -13,15 +13,15 @@ I have broad research interests in optimization, applied probability, statistics
 
 ## Working Papers and Preprints
 
-* **Yinbin Han**, Jack Yuxiang Zhang, Manuel Torres, Fernando Acero, and Renyuan Xu. [Diffusion Models for Dynamic Volatility Surface Generation and Data-Driven Hedging](https://arxiv.org/abs/2609.13402). Preprint, 2026. <a href="https://github.com/yinbinhan/volatility-surface-simulation"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a>
-* Haoyang Cao, Minshuo Chen, **Yinbin Han**, and Renyuan Xu. [Diffusion Models for Adaptive Sequential Data Generation](https://arxiv.org/abs/2606.06007). Submitted to *Operations Research*, 2026. <a href="https://github.com/yinbinhan/adapted_diffusion_model"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a>
+* Haoyang Cao, Minshuo Chen, **Yinbin Han**, and Renyuan Xu. [Diffusion Models for Adaptive Sequential Data Generation](https://arxiv.org/abs/2606.06007). Revision at *Operations Research*, 2026. <a href="https://github.com/yinbinhan/adapted_diffusion_model"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a>
     * Finalist, *2026 INFORMS Finance Section Best Student Paper*.
     * Short version accepted by *NeurIPS Workshop  MLxOR*, 2025.
-* **Yinbin Han** and Meisam Razaviyayn. [Stochastic Inexact Moreau Envelope Augmented Lagrangian Method for Nonconvex Robust Constrained Optimization](https://openreview.net/pdf?id=BVuORzJ4ye). Preprint, 2025.
+* **Yinbin Han** and Meisam Razaviyayn. [CREAM: A Smoothed Augmented Lagrangian Method for Stochastic Nonconvex Optimization with Robust Constraints](). Submitted to *SIAM Journal on Optimization*, 2026.
     * Short version accepted by  *NeurIPS Workshop  on Constrained Optimization for Machine Learning*, 2025.
 
 ## Conference Proceedings
 
+* **Yinbin Han**, Jack Yuxiang Zhang, Manuel Torres, Fernando Acero, and Renyuan Xu. [Diffusion Models for Dynamic Volatility Surface Generation and Data-Driven Hedging](https://arxiv.org/abs/2609.13402). *ACM International Conference on AI in Finance (ICAIF)*, 2026. <a href="https://github.com/yinbinhan/volatility-surface-simulation"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a>
 * **Yinbin Han**, Meisam Razaviyayn, and Renyuan Xu. [Stochastic Control for Fine-tuning Diffusion Models: Optimality, Regularity and Convergence](https://arxiv.org/abs/2412.18164). *International Conference on Machine Learning (ICML)*, 2025. <a href="https://github.com/yinbinhan/fine-tuning-of-diffusion-models"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a>
 * **Yinbin Han**, Meisam Razaviyayn, and Renyuan Xu. [Neural Network-Based Score Estimation in Diffusion Models: Optimization and Generalization](https://arxiv.org/abs/2401.15604). *International Conference on Learning Representations (ICLR)*, 2024.
     * Short version accepted by  *NeurIPS Workshop on Diffusion Models*, 2023.
